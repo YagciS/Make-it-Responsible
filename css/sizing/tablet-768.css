@@ -18,12 +18,15 @@
     nav{
         display: none;
     }
-    .logo{
+    .logo a{
         margin-left: 25%;
     }
     .hamburger{
         display: block;
         margin-right: 10%;
+    }
+    .hamburger a{
+        padding: 25%;
     }
     /* --------------- contacts.html ----------- */
     .container {
